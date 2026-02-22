@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
