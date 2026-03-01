@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0119-pascals-triangle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
