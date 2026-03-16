@@ -13,5 +13,4 @@ class Solution(object):
             else:
                 result.append(f"{start}->{nums[i]}")
             i += 1
-            
         return result
