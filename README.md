@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
