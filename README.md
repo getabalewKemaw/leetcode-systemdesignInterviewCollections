@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/getabalewKemaw/leetcode-systemdesignInterviewCollections/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
